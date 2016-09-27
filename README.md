@@ -1,28 +1,39 @@
 ### Luís Fernando Guedes
-#### Brasileiro, Manauara, Solteiro, 25 Anos
+#### Brasileiro, Manauara, Solteiro, 26 Anos
 ---
 
 > Engenheiro de Sistemas com mentalidade Devops, amante da natureza apaixonado por futebol.
 
 ### Contato
-* Celular: +55 (92) 98246-5823
+* Celular: +55 (48) 9675-8485
 * E-mail: lfernandoguedes@gmail.com
 * Site: http://fernandogued.es
-* Linkedin: br.linkedin.com/in/lfernandoguedes
+* Linkedin: https://br.linkedin.com/in/lfernandoguedes
 * GitHub: https://github.com/fernandoguedes
 
 ### Formação
-* Sistemas de Informação -  Universidade Federal do Amazonas (UFAM)
+* Sistemas de Informação - Universidade Federal do Amazonas (UFAM)
 * Ensino Médio/Técnico em Informática - Concluído - Centro de Ensino FUCAPI (CESF) - 2007
 
 ### Experiência Profissional
 
-__Empresa: Blueticket (2015 - Atual)__
+__Empresa: Neoway Business Solutions (2016 - Atual)__
+
+__Cargo:__ Analista Desenvolvedor
+
+__Resumo de Atividades:__
+* Desenvolvimento orientado a testes e melhoria contínua
+* Desenvolvimento de produto de business intelligence baseado em georreferenciamento
+* Arquitetura e desenvolvimento frontend com AngularJS
+* Refatoração de componentes do sistema
+* Controle de versão com git
+
+__Empresa: Blueticket (2015 - 2016)__
 
 __Cargo:__ Analista Desenvolvedor Pleno 8
 
 __Resumo de Atividades:__
-* Desenvolvimento orientado a testes com foco em integração e melhoría contínua
+* Desenvolvimento orientado a testes com foco em integração e melhoria contínua
 * Arquitetura de sistemas distribuídos e microserviços
 * Arquitetura e desenvolvimento de sistemas frontend utilizando AngularJS
 * Desenvolvimento de REST APIs utilizando NodeJS e MongoDB
@@ -34,7 +45,7 @@ NPM)
 * Controle de versão com Git
 * Suporte - quando necessário - nos sistemas legados desenvolvidos em PHP e MySQL
 
-__Empresa: Neemu (2014 - Atual)__
+__Empresa: Neemu (2014 - 2015)__
 
 __Cargo:__ Programador Pleno 2
 
@@ -68,6 +79,9 @@ __Resumo de Atividades__:
 * Suporte aos usuários para os sistemas intranet
 
 ### Participações em Eventos, Congressos e Conferências
+* BrazilJS Conf 2016 (Porto Alegre - RS, 2016)
+* SC Dev Summit 2016 (Joinville - SC, 2016)
+* The Developers Conference 2016 (Florianópolis - SC, 2016)
 * Agile Floripa (Florianópolis - SC, 2016)
 * Octobertest, Evento de Testes de Software do Sul do Brasil (Florianópolis - SC, 2015)
 * Startup Grind 2015, Seminário sobre Startups (Florianópolis - SC, 2015)
@@ -101,6 +115,7 @@ Digitais (Manaus – AM, 2013)
 * Relações Humanas, Qualynorte (Manaus - AM, 2007)
 
 ### Informações Adicionais
+* Palestrante no 12º meetup do FloripaJS com o tema: "Automatização de tarefas com npm scripts"
 * Resumo expandido publicado no ENCOSIS 2013 intitulado de "QR Code - Sistemas e Aplicabilidades em Pontos Turísticos"
 * Em Manaus, Co-fundador do BitJungle Hacker Clube (BitJungle HC)
 * Entusiasta de projetos de Software Livre, como, Aptana, XFCE e Xubuntu
