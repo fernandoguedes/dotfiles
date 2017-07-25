@@ -1,13 +1,12 @@
 ### Luís Fernando Guedes
-#### Brasileiro, Manauara, Solteiro, 26 Anos
+#### Brasileiro, 26 Anos
 ---
 
-> Engenheiro de Sistemas com mentalidade Devops, amante da natureza apaixonado por futebol.
+> Hi! I'm Luís Fernando Guedes, 26 years old currently living in Florianópolis, Santa Catarina. I have over eight years of experience working with a variety of technology and languages - NodeJS, Go, PHP, CSS3, HTML5, MySQL, PostgreSQL, MongoDB, GIS, Crawlers, Biotechnology, AWS, Mobile - to solve real problems with agility, quality and scalability.
 
 ### Contato
-* Celular: +55 (48) 9675-8485
+* Celular: +55 (48) 9 9675-8485
 * E-mail: lfernandoguedes@gmail.com
-* Site: http://fernandogued.es
 * Linkedin: https://br.linkedin.com/in/lfernandoguedes
 * GitHub: https://github.com/fernandoguedes
 
@@ -22,11 +21,10 @@ __Empresa: Neoway Business Solutions (2016 - Atual)__
 __Cargo:__ Analista Desenvolvedor
 
 __Resumo de Atividades:__
-* Desenvolvimento orientado a testes e melhoria contínua
-* Desenvolvimento de produto de business intelligence baseado em georreferenciamento
-* Arquitetura e desenvolvimento frontend com AngularJS
-* Refatoração de componentes do sistema
-* Controle de versão com git
+* Desenvolvimento de produto de business intelligence baseado em georreferenciamento (Neoway App Maps)
+* Implementação e melhoria de microserviços desenvolvidos em Go 
+* Arquitetura e desenvolvimento frontend de aplicações AngularJS
+* Implementação de produto de integração entre plataforma de big data e CRMs utilizando AngularJS, NodeJS e Go (Neoway Connector)
 
 __Empresa: Blueticket (2015 - 2016)__
 
@@ -79,9 +77,10 @@ __Resumo de Atividades__:
 * Suporte aos usuários para os sistemas intranet
 
 ### Participações em Eventos, Congressos e Conferências
+* The Developers Conference 2017 - Trilha Arquitetura (Florianópolis - SC, 2017)
 * BrazilJS Conf 2016 (Porto Alegre - RS, 2016)
 * SC Dev Summit 2016 (Joinville - SC, 2016)
-* The Developers Conference 2016 (Florianópolis - SC, 2016)
+* The Developers Conference 2016 - Trilha Arquitetura (Florianópolis - SC, 2016)
 * Agile Floripa (Florianópolis - SC, 2016)
 * Octobertest, Evento de Testes de Software do Sul do Brasil (Florianópolis - SC, 2015)
 * Startup Grind 2015, Seminário sobre Startups (Florianópolis - SC, 2015)
