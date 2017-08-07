@@ -1,5 +1,5 @@
 ### Luís Fernando Guedes
-#### Brasileiro, 26 Anos
+#### Full Stack Software Engineer with DevOps Mindset
 ---
 
 > Hi! I'm Luís Fernando Guedes, 26 years old currently living in Florianópolis, Santa Catarina. I have over eight years of experience working with a variety of technology and languages - NodeJS, Go, PHP, CSS3, HTML5, MySQL, PostgreSQL, MongoDB, GIS, Crawlers, Biotechnology, AWS, Mobile - to solve real problems with agility, quality and scalability.
