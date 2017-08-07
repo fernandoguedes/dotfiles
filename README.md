@@ -117,5 +117,5 @@ Digitais (Manaus – AM, 2013)
 * Palestrante no 12º meetup do FloripaJS com o tema: "Automatização de tarefas com npm scripts"
 * Resumo expandido publicado no ENCOSIS 2013 intitulado de "QR Code - Sistemas e Aplicabilidades em Pontos Turísticos"
 * Em Manaus, Co-fundador do BitJungle Hacker Clube (BitJungle HC)
-* Entusiasta de projetos de Software Livre, como, Aptana, XFCE e Xubuntu
+* Entusiasta de projetos de Software Livre, como, Bower,  XFCE e Xubuntu
 * Disponibilidade para viajar
