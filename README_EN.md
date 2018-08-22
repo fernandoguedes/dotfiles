@@ -2,45 +2,51 @@
 #### Full Stack Software Engineer with DevOps Mindset
 ---
 
-> Hi! I'm Luís Fernando Guedes, 26 years old currently living in Florianópolis, Santa Catarina. I have over eight years of experience working with a variety of technology and languages - NodeJS, Go, PHP, CSS3, HTML5, MySQL, PostgreSQL, MongoDB, GIS, Crawlers, Biotechnology, AWS, Azure, Mobile - to solve real problems with agility, quality and scalability.
+> Hi! I'm Luís Fernando Guedes, 28 years old currently living in Florianópolis, Santa Catarina. I have over ten years of experience working with a variety of technology and languages - NodeJS, Go, PHP, C#, CSS3, HTML5, MySQL, PostgreSQL, MongoDB, GIS, Crawlers, Biotechnology, AWS, Azure, Google Cloud, Mobile - to solve real problems with agility, quality and scalability.
 
 ### Contact
 * Phone: +55 (48) 9 9675-8485
 * E-mail: lfernandoguedes@gmail.com
-* Site: http://fguedes.me
 * Linkedin: https://br.linkedin.com/in/lfernandoguedes
 * GitHub: https://github.com/fernandoguedes
 
 ### Education
-* Information Systems - Federal University of Amazon (UFAM)
+* Information Systems - Federal University of Amazon (UFAM) - 2012/2015
 * High School/Technician Computing - Education Center FUCAPI (CESF) - 2007
 
 ### Professional Experience
-__Neoway Business Solutions - Analyst Developer (2016 - 2017)__
+
+__Portal Telemedicina - Senior Software Engineer (2017 - 2018)__
+
+__Activities:__ I was responsible for implant DevOps culture, including migrating of monolith to new architecture based in microservices, containerize all applications and migrate all legacy system developed with AngularJS and C# to VueJS, C# and NodeJS.
+
+I've worked with: AngularJS, VueJS, NodeJS, C#, SQL Server, SSE (Server Side Events), Integrations, Spinnaker, Google Cloud, Sass, HTML5, Docker, Kubernets, Continuous Integration, Continuos Development, TDD, Microservices.
+
+__Neoway Business Solutions - Analyst Developer (2015 - 2017)__
 
 __Activities:__ I was part of the Sales App development team, which is a application suite that aims to prospect, generate opportunities and sales. I had the opportunity to work with two products: Maps, an application based on GIS tecnologies; and Connector, responsible for integrating several popular CRMs in the market, including SalesForce and Microsoft Dynamics.
 
-I've worked with: AngularJS, NodeJS, Go, MongoDB, PostGIS, Geoserver, Azure, Google Maps, Leaflet, SSE (Server Side Events), Sass, HTML5, Docker, Kubernets, Continuous Integration, Continuos Development, TDD, Microservices.
+I've worked with: AngularJS, NodeJS, Go, MongoDB, PostGIS, Geoserver, Azure, Google Maps, Leaflet, SSE (Server Side Events), Sass, HTML5, Docker, Kubernetes, Continuous Integration, Continuos Development, TDD, Microservices.
 
-__Blueticket - Analyst Developer 8 (2015 - 2016)__
+__Blueticket - Analyst Developer 8 (2015)__
 
 __Activities:__ I was responsible for migrating legacy systems, developed in PHP for NodeJS and AngularJS, using microservices. I worked too with the new internal CRM, called BlueSuite. I fully integrated and developed BlueQueue, product designed to support heavy loads of requests, using few computational resources in the sale of major events via the internet. The results were expressive: BlueQueue reached ~ 10,000 req/s using a t2.micro machine.
 
 I've worked with: Architeture, Scrum, AngularJS, NodeJS, MongoDB, Redis, AWS, MySQL, Memcached, CSS3, HTML5, Jenkins, Continuous Integration, Continuos Development, TDD, Microservices.
 
-__Neemu - Developer 2 (2013 - 2015)__
+__Neemu - Developer 2 (2012 - 2015)__
 
 __Activities:__ At Neemu, company specialized in search and recommendation for e-commerce, I worked with Cockpit in a dashboard that brings all the analysis and performance with an excellent graphic experience. Next to the Cockpit was the SearchManager, used to add features to the search engine, such as prioritizing products in a search or blocking another in a recommendation.
 
 I've worked with: Architeture, PHP, D3, Yii Framework, jQuery (UI), NodeJS, Redis, Rackspace, MySQL, CSS3, HTML5, Continuous Integration, Continuos Development.
 
-__Centro de Biotecnologia da Amazônia (CBA) - Technical Researcher (2012 - 2013)__
+__Centro de Biotecnologia da Amazônia (CBA) - Technical Researcher (2010 - 2012)__
 
 __Activities:__ As a member of NIB (Núcleo de Biotecnologia da Amazônia), I developed a software that assisted in the extraction and standardization of relevant content to data mining (via Scopus API), which was analyzed by an intellectual property expert. I also served as DevOps by managing Debian servers and running an open-source software called DSpace, which is used to catalog and manage information.
 
 I've worked with: PHP, Javascript, MySQL, CSS3, HTML5, DevOps, DSpace, R&D.
 
-__Secretaria de Infraestrutura (SEINFRA) - Developer Intern (2011 - 2012)__
+__Secretaria de Infraestrutura (SEINFRA) - Developer Intern (2009 - 2010)__
 
 __Activities__: I provided assistance in the development of the control system of managed work by SEINFRA, in which I also worked as support to the users of the Intranet systems.
 
