@@ -18,7 +18,7 @@
 
 __Portal Telemedicina - Senior Software Engineer (2017 - 2018)__
 
-__Activities:__ I was responsible for implant DevOps culture, including migrating of monolith to new architecture based in microservices, containerize all applications and migrate all legacy system developed with AngularJS and C# to VueJS, C# and NodeJS.
+__Activities:__ I was responsible for implant DevOps culture, including migrating of monolith to new architecture based in microservices, using Kubernetes to orchestrate, Docker to containerize all applications, Spinanker to Continuous Deployment, Bitbucket Pipelines to Continuos integrations and migrate all legacy system developed with AngularJS and C# to VueJS, C# and NodeJS.
 
 I've worked with: AngularJS, VueJS, NodeJS, C#, SQL Server, SSE (Server Side Events), Integrations, Spinnaker, Google Cloud, Sass, HTML5, Docker, Kubernets, Continuous Integration, Continuos Development, TDD, Microservices.
 
