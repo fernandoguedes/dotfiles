@@ -18,7 +18,7 @@
 
 __Portal Telemedicina - Senior Software Engineer (2017 - 2018)__
 
-__Activities:__ I was responsible for implant DevOps culture, including migrating of monolith to new architecture based in microservices, using Kubernetes to orchestrate, Docker to containerize all applications, Spinanker to Continuous Deployment, Bitbucket Pipelines to Continuos integrations and migrate all legacy system developed with AngularJS and C# to VueJS, C# and NodeJS.
+__Activities:__ I was responsible for implant DevOps culture, including migrating of monolith to new architecture based in microservices, using Kubernetes to orchestrate, Docker to containerize all applications, Spinnaker to Continuous Deployment, Bitbucket Pipelines to Continuos integrations and migrate all legacy system developed with AngularJS and C# to VueJS, C# and NodeJS.
 
 I've worked with: AngularJS, VueJS, NodeJS, C#, SQL Server, SSE (Server Side Events), Integrations, Spinnaker, Google Cloud, Sass, HTML5, Docker, Kubernets, Continuous Integration, Continuos Development, TDD, Microservices.
 
@@ -34,19 +34,19 @@ __Activities:__ I was responsible for migrating legacy systems, developed in PHP
 
 I've worked with: Architeture, Scrum, AngularJS, NodeJS, MongoDB, Redis, AWS, MySQL, Memcached, CSS3, HTML5, Jenkins, Continuous Integration, Continuos Development, TDD, Microservices.
 
-__Neemu - Developer 2 (2012 - 2015)__
+__Neemu - Developer 2 (2013 - 2015)__
 
 __Activities:__ At Neemu, company specialized in search and recommendation for e-commerce, I worked with Cockpit in a dashboard that brings all the analysis and performance with an excellent graphic experience. Next to the Cockpit was the SearchManager, used to add features to the search engine, such as prioritizing products in a search or blocking another in a recommendation.
 
 I've worked with: Architeture, PHP, D3, Yii Framework, jQuery (UI), NodeJS, Redis, Rackspace, MySQL, CSS3, HTML5, Continuous Integration, Continuos Development.
 
-__Centro de Biotecnologia da Amazônia (CBA) - Technical Researcher (2010 - 2012)__
+__Centro de Biotecnologia da Amazônia (CBA) - Technical Researcher (2011 - 2013)__
 
 __Activities:__ As a member of NIB (Núcleo de Biotecnologia da Amazônia), I developed a software that assisted in the extraction and standardization of relevant content to data mining (via Scopus API), which was analyzed by an intellectual property expert. I also served as DevOps by managing Debian servers and running an open-source software called DSpace, which is used to catalog and manage information.
 
 I've worked with: PHP, Javascript, MySQL, CSS3, HTML5, DevOps, DSpace, R&D.
 
-__Secretaria de Infraestrutura (SEINFRA) - Developer Intern (2009 - 2010)__
+__Secretaria de Infraestrutura (SEINFRA) - Developer Intern (2010 - 2011)__
 
 __Activities__: I provided assistance in the development of the control system of managed work by SEINFRA, in which I also worked as support to the users of the Intranet systems.
 
