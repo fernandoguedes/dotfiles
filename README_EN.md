@@ -9,6 +9,7 @@
 * E-mail: lfernandoguedes@gmail.com
 * Linkedin: https://br.linkedin.com/in/lfernandoguedes
 * GitHub: https://github.com/fernandoguedes
+* Site: https://fguedes.me
 
 ### Education
 * Information Systems - Federal University of Amazon (UFAM) - 2012/2015
@@ -18,7 +19,7 @@
 
 __Portal Telemedicina - Senior Software Engineer (2017 - 2018)__
 
-__Activities:__ I was responsible for implant DevOps culture, including migrating of monolith to new architecture based in microservices, using Kubernetes to orchestrate, Docker to containerize all applications, Spinnaker to Continuous Deployment, Bitbucket Pipelines to Continuos integrations and migrate all legacy system developed with AngularJS and C# to VueJS, C# and NodeJS.
+__Activities:__ I was in charge for implementing the DevOps culture, including migrating legacy systems (C#) to a new architecture based on multilingual microservices - with all automated process. Effective as a software engineer and architect in Node.js and Vue.js services of telemedicine platform.
 
 I've worked with: AngularJS, VueJS, NodeJS, C#, SQL Server, SSE (Server Side Events), Integrations, Spinnaker, Google Cloud, Sass, HTML5, Docker, Kubernets, Continuous Integration, Continuos Development, TDD, Microservices.
 
@@ -90,6 +91,6 @@ I've worked with: PHP, Javascript, MySQL, CSS3, HTML5, Support.
 ### Additional Informations
 * Speaker on 12º FloripaJS meetup: "Automating tasks with NPM scripts"
 * Expanded abstract published in ENCOSIS 2013: "QR Code - Systems and applicabilities in tourism points"
-* In Manaus, Co-founder of BitJungle Hacker Clube (BitJungle HC)
+* In Manaus, Co-founder of BitJungle Hacker Club (BitJungle HC)
 * Open-source enthusiast!
 * Availability to travel
