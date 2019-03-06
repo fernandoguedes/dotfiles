@@ -17,7 +17,7 @@
 
 ### Professional Experience
 
-__Portal Telemedicina - Senior Software Engineer (2017 - 2018)__
+__Portal Telemedicina - Senior Software Engineer (2017 - Present)__
 
 __Activities:__ I was in charge for implementing the DevOps culture, including migrating legacy systems (C#) to a new architecture based on multilingual microservices - with all automated process. Effective as a software engineer and architect in Node.js and Vue.js services of telemedicine platform.
 
