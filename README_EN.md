@@ -1,8 +1,8 @@
 ### Luís Fernando Guedes
-#### Full Stack Software Engineer with DevOps Mindset
+#### Senior Full Stack Software Engineer with DevOps Mindset
 ---
 
-> Hi! I'm Luís Fernando Guedes, 28 years old currently living in Florianópolis, Santa Catarina. I have over ten years of experience working with a variety of technology and languages - NodeJS, Go, PHP, C#, CSS3, HTML5, MySQL, PostgreSQL, MongoDB, GIS, Crawlers, Biotechnology, AWS, Azure, Google Cloud, Mobile - to solve real problems with agility, quality and scalability.
+> Hi! I'm Luís Fernando Guedes, 30 years old currently living in Florianópolis, Santa Catarina. I have over twelve years of experience working with a variety of technology and languages - NodeJS, Go, PHP, C#, CSS3, HTML5, MySQL, PostgreSQL, MongoDB, GIS, Crawlers, Biotechnology, AWS, Azure, Google Cloud, Mobile - to solve real problems with agility, quality and scalability.
 
 ### Contact
 * Phone: +55 (48) 9 9675-8485
@@ -17,11 +17,18 @@
 
 ### Professional Experience
 
-__Portal Telemedicina - Senior Software Engineer (2017 - Present)__
+__Resultados Digitais - Senior Software Engineer (2019 - 2020)__
+
+__Activities:__ I work in the architecture and development of a system for collecting, analyzing and storing user data (similar to Google Analytics), as well as APIs to record Landing Pages and Popups conversions, amongst other assets.
+As the team’s SRE, I directly support the construction of the infrastructure operation, monitoring and creation playbooks..
+
+I've worked with: Architecture, SRE, Go, Ruby, JavaScript, PostgreSQL, DataFlow, Java, Web Tracking, Spinnaker, Google Cloud, Docker, Kubernetes, Continuous Integration, Continuos Development, TDD, Microservices.
+
+__Portal Telemedicina - Senior Software Engineer (2017 - 2019)__
 
 __Activities:__ I was in charge for implementing the DevOps culture, including migrating legacy systems (C#) to a new architecture based on multilingual microservices - with all automated process. Effective as a software engineer and architect in Node.js and Vue.js services of telemedicine platform.
 
-I've worked with: AngularJS, VueJS, NodeJS, C#, SQL Server, SSE (Server Side Events), Integrations, Spinnaker, Google Cloud, Sass, HTML5, Docker, Kubernets, Continuous Integration, Continuos Development, TDD, Microservices.
+I've worked with: AngularJS, VueJS, NodeJS, C#, SQL Server, SSE (Server Side Events), Integrations, Spinnaker, Google Cloud, Sass, HTML5, Docker, Kubernetes, Continuous Integration, Continuos Development, TDD, Microservices.
 
 __Neoway Business Solutions - Analyst Developer (2015 - 2017)__
 
