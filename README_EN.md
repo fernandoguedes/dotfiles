@@ -9,13 +9,19 @@
 * E-mail: lfernandoguedes@gmail.com
 * Linkedin: https://br.linkedin.com/in/lfernandoguedes
 * GitHub: https://github.com/fernandoguedes
-* Site: https://fguedes.me
+* Site: https://fguedes.xyz
 
 ### Education
 * Information Systems - Federal University of Amazon (UFAM) - 2012/2015
 * High School/Technician Computing - Education Center FUCAPI (CESF) - 2007
 
 ### Professional Experience
+
+__Via Varejo - Principal Software Engineer (2020 - 2021)__
+
+__Activities:__ As Principal Software Engineer (Tribe Tech Lead), I guide squads to ensure the quality of deliveries and software evolution, working collaboratively to solve new initiatives focused on scalability, performance, architecture and distributed systems. In addition, I follow metrics related to the maturity model, performance of APIs and services.
+
+I've worked with: Tech Lead, Architecture, SRE, Go, C#, PostgreSQL, ElasticSearch, Azure, Docker, Kubernetes, Continuous Integration, Continuos Development, TDD, Microservices.
 
 __Resultados Digitais - Senior Software Engineer (2019 - 2020)__
 
