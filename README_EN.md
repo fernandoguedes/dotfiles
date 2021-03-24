@@ -2,7 +2,7 @@
 #### Senior Software Engineer and Tech Lead with DevOps Mindset
 ---
 
-> Hi! I'm Luís Fernando Guedes, 30 years old currently living in Florianópolis, Santa Catarina. I have over twelve years of experience working with a variety of technology and languages - NodeJS, Go, PHP, C#, CSS3, HTML5, MySQL, PostgreSQL, MongoDB, GIS, Crawlers, Biotechnology, AWS, Azure, Google Cloud, Mobile - to solve real problems with agility, quality and scalability.
+*Hi! I'm Luís Fernando Guedes, 30 years old currently living in Florianópolis, Santa Catarina. I have over twelve years of experience working with a variety of segments, technologies and languages - Biotechnology, E-Commerce, Big Data, HealthTech, Analytics - to solve real problems with agility, quality and scalability.*
 
 ### Contact
 * Phone: +55 (48) 9 9675-8485
@@ -19,7 +19,7 @@
 
 __Via Varejo - Principal Software Engineer (2020 - 2021)__
 
-__Activities:__ As Principal Software Engineer (Tribe Tech Lead), I guide squads to ensure the quality of deliveries and software evolution, working collaboratively to solve new initiatives focused on scalability, performance, architecture and distributed systems. In addition, I follow metrics related to the maturity model, performance of APIs and services.
+__Activities:__ As Principal Software Engineer (or Tribe Tech Lead), I guide squads to ensure the quality of deliveries and software evolution, working collaboratively to solve new initiatives focused on scalability, performance, architecture and distributed systems. In addition, I follow metrics related to the maturity model, performance of APIs and services.
 
 I've worked with: Tech Lead, Architecture, SRE, Go, C#, PostgreSQL, ElasticSearch, Azure, Docker, Kubernetes, Continuous Integration, Continuos Development, TDD, Microservices.
 
