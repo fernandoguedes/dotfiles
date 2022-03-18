@@ -2,7 +2,7 @@
 #### Senior Software Engineer and Tech Lead with DevOps Mindset
 ---
 
-*Hi! I'm Luís Fernando Guedes, 30 years old currently living in Florianópolis, Santa Catarina. I have over twelve years of experience working with a variety of segments, technologies and languages - Biotechnology, E-Commerce, Big Data, HealthTech, Analytics - to solve real problems with agility, quality and scalability.*
+*Hi! I'm Luís Fernando Guedes, 30 years old currently living in Florianópolis, Santa Catarina. I have over thirtheen years of experience working with a variety of segments, technologies and languages - Biotechnology, E-Commerce, Big Data, HealthTech, Analytics - to solve real problems with agility, quality and scalability.*
 
 ### Contact
 * Phone: +55 (48) 9 9675-8485
@@ -17,6 +17,12 @@
 
 ### Professional Experience
 
+__Zé Delivery - Senior Software Engineer (2020 - Present)__
+
+__Activities:__ I work in the architecture and development of a system for onboarding, login and signup of Zé Delivery flow. Helps the junior/mid level developers with mentoring and peering. Engaged with the DevOps culture aiming at improvements in the observability and operating routines of our applications.
+
+I've worked with: Tech Lead, Architecture, Python, DynamoDB, Cognito, Events, PostgreSQL, AWS, Serverless, Continuous Integration, Continuos Development, TDD, Microservices, DevOps, Observability.
+
 __Via Varejo - Principal Software Engineer (2020 - 2021)__
 
 __Activities:__ As Principal Software Engineer (or Tribe Tech Lead), I guide squads to ensure the quality of deliveries and software evolution, working collaboratively to solve new initiatives focused on scalability, performance, architecture and distributed systems. In addition, I follow metrics related to the maturity model, performance of APIs and services.
@@ -26,7 +32,7 @@ I've worked with: Tech Lead, Architecture, SRE, Go, C#, PostgreSQL, ElasticSearc
 __Resultados Digitais - Senior Software Engineer (2019 - 2020)__
 
 __Activities:__ I work in the architecture and development of a system for collecting, analyzing and storing user data (similar to Google Analytics), as well as APIs to record Landing Pages and Popups conversions, amongst other assets.
-As the team’s SRE, I directly support the construction of the infrastructure operation, monitoring and creation playbooks..
+As the team’s SRE, I directly support the construction of the infrastructure operation, monitoring and creation playbooks.
 
 I've worked with: Architecture, SRE, Go, Ruby, JavaScript, PostgreSQL, DataFlow, Java, Web Tracking, Spinnaker, Google Cloud, Docker, Kubernetes, Continuous Integration, Continuos Development, TDD, Microservices.
 
@@ -67,6 +73,7 @@ __Activities__: I provided assistance in the development of the control system o
 I've worked with: PHP, Javascript, MySQL, CSS3, HTML5, Support.
 
 ### Events, congresses and conferences
+* TheDevConf 2021 - Architecture, Microservices (2021)
 * The Developers Conference 2017 - Architeture (Florianópolis - SC, 2017)
 * BrazilJS Conf 2016 (Porto Alegre - RS, 2016)
 * SC Dev Summit 2016 (Joinville - SC, 2016)
@@ -84,6 +91,7 @@ I've worked with: PHP, Javascript, MySQL, CSS3, HTML5, Support.
 * FliSoL – Festival Latino Americano de Software Libre (Manaus – AM, 2008)
 
 ### Certifications, Qualifications and Languages
+* Implementing a Google DevOps Culture – Qwiklabs (2022) 
 * Cloud with AWS, Filipe Felisbino – VOffice (Florianópolis - SC, 2016)
 * App Development with AngularJS, Rodrigo Branas – VOffice (Florianópolis - SC, 2015)
 * Testing RESTFul Services with Python, Charles Kilesse – Octobertest (Florianópolis - SC, 2015)
