@@ -1,5 +1,5 @@
 ### Luís Fernando Guedes
-#### Senior Software Engineer and Tech Lead with DevOps Mindset
+#### Tech Lead with DevOps Mindset
 ---
 
 *Hi! I'm Luís Fernando Guedes, 30 years old currently living in Florianópolis, Santa Catarina. I have over thirtheen years of experience working with a variety of segments, technologies and languages - Biotechnology, E-Commerce, Big Data, HealthTech, Analytics - to solve real problems with agility, quality and scalability.*
@@ -13,21 +13,22 @@
 
 ### Education
 * Information Systems - Federal University of Amazon (UFAM) - 2012/2015
-* High School/Technician Computing - Education Center FUCAPI (CESF) - 2007
+* Technician Computing - Education Center FUCAPI (CESF) - 2007
 
 ### Professional Experience
 
-__Zé Delivery - Senior Software Engineer (2020 - Present)__
+
+__Zé Delivery - Tech Lead (2021 - 2023)__
 
 __Activities:__ I work in the architecture and development of a system for onboarding, login and signup of Zé Delivery flow. Helps the junior/mid level developers with mentoring and peering. Engaged with the DevOps culture aiming at improvements in the observability and operating routines of our applications.
 
 I've worked with: Tech Lead, Architecture, Python, DynamoDB, Cognito, Events, PostgreSQL, AWS, Serverless, Continuous Integration, Continuos Development, TDD, Microservices, DevOps, Observability.
 
-__Via Varejo - Principal Software Engineer (2020 - 2021)__
+__Zé Delivery - Senior Software Engineer (2020 - 2021)__
 
-__Activities:__ As Principal Software Engineer (or Tribe Tech Lead), I guide squads to ensure the quality of deliveries and software evolution, working collaboratively to solve new initiatives focused on scalability, performance, architecture and distributed systems. In addition, I follow metrics related to the maturity model, performance of APIs and services.
+__Activities:__ I work in the architecture and development of a system for onboarding, login and signup of Zé Delivery flow. Helps the junior/mid level developers with mentoring and peering. Engaged with the DevOps culture aiming at improvements in the observability and operating routines of our applications.
 
-I've worked with: Tech Lead, Architecture, SRE, Go, C#, PostgreSQL, ElasticSearch, Azure, Docker, Kubernetes, Continuous Integration, Continuos Development, TDD, Microservices.
+I've worked with: Tech Lead, Architecture, Python, DynamoDB, Cognito, Events, PostgreSQL, AWS, Serverless, Continuous Integration, Continuos Development, TDD, Microservices, DevOps, Observability.
 
 __Resultados Digitais - Senior Software Engineer (2019 - 2020)__
 
@@ -60,13 +61,13 @@ __Activities:__ At Neemu, company specialized in search and recommendation for e
 
 I've worked with: Architeture, PHP, D3, Yii Framework, jQuery (UI), NodeJS, Redis, Rackspace, MySQL, CSS3, HTML5, Continuous Integration, Continuos Development.
 
-__Centro de Biotecnologia da Amazônia (CBA) - Technical Researcher (2011 - 2013)__
+__Centro de Biotecnologia da Amazônia (CBA) - Technical Researcher (2009 - 2011)__
 
 __Activities:__ As a member of NIB (Núcleo de Biotecnologia da Amazônia), I developed a software that assisted in the extraction and standardization of relevant content to data mining (via Scopus API), which was analyzed by an intellectual property expert. I also served as DevOps by managing Debian servers and running an open-source software called DSpace, which is used to catalog and manage information.
 
 I've worked with: PHP, Javascript, MySQL, CSS3, HTML5, DevOps, DSpace, R&D.
 
-__Secretaria de Infraestrutura (SEINFRA) - Developer Intern (2010 - 2011)__
+__Secretaria de Infraestrutura (SEINFRA) - Software Engineering Intern (2007 - 2009)__
 
 __Activities__: I provided assistance in the development of the control system of managed work by SEINFRA, in which I also worked as support to the users of the Intranet systems.
 
