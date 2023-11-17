@@ -1,5 +1,5 @@
 ### Luís Fernando Guedes
-#### Tech Lead with DevOps Mindset
+#### Tech Lead and Sr. Software Engineer with DevOps Mindset
 ---
 
 *Hi! I'm Luís Fernando Guedes, 30 years old currently living in Florianópolis, Santa Catarina. I have over thirtheen years of experience working with a variety of segments, technologies and languages - Biotechnology, E-Commerce, Big Data, HealthTech, Analytics - to solve real problems with agility, quality and scalability.*
@@ -12,25 +12,25 @@
 * Site: https://fguedes.xyz
 
 ### Education
-* Information Systems - Federal University of Amazon (UFAM) - 2012/2015
+* Information Systems - Federal University of Amazonas (UFAM) - 2012/2015
 * Technician Computing - Education Center FUCAPI (CESF) - 2007
 
 ### Professional Experience
 
+__Grupo Boticário - Tech Lead (2021 - )__
 
-__Zé Delivery - Tech Lead (2021 - 2023)__
+__Activities:__ As a technical leader, I worked on the development of new financial products aimed at corporate clients, helping them with financial management and control of franchises. My role involved leading decision-making processes across squads/tribes, ensuring software quality through best practices, architecture design, and process improvement, mentoring software engineers, and conducting feedback cycles. Our structure included 8 microservices developed in Node.js + TypeScript (including APIs, workers, and integrations), SQL databases (PostgreSQL) and NoSQL databases (DynamoDB), and 3 microfrontends with React (systems and design system). All of our infrastructure was hosted on AWS.
+
+I've worked with: Tech Lead, Architecture, Node.js, TypeScript, People Management, AWS, Continuous Integration, Continuos Development, TDD, Microservices, DevOps, Observability.
+
+
+__Zé Delivery - Senior Software Engineer/Tech Lead (2020 - 2021)__
 
 __Activities:__ I work in the architecture and development of a system for onboarding, login and signup of Zé Delivery flow. Helps the junior/mid level developers with mentoring and peering. Engaged with the DevOps culture aiming at improvements in the observability and operating routines of our applications.
 
 I've worked with: Tech Lead, Architecture, Python, DynamoDB, Cognito, Events, PostgreSQL, AWS, Serverless, Continuous Integration, Continuos Development, TDD, Microservices, DevOps, Observability.
 
-__Zé Delivery - Senior Software Engineer (2020 - 2021)__
-
-__Activities:__ I work in the architecture and development of a system for onboarding, login and signup of Zé Delivery flow. Helps the junior/mid level developers with mentoring and peering. Engaged with the DevOps culture aiming at improvements in the observability and operating routines of our applications.
-
-I've worked with: Tech Lead, Architecture, Python, DynamoDB, Cognito, Events, PostgreSQL, AWS, Serverless, Continuous Integration, Continuos Development, TDD, Microservices, DevOps, Observability.
-
-__Resultados Digitais - Senior Software Engineer (2019 - 2020)__
+__Resultados Digitais - Senior Software Engineer (2019 - 2021)__
 
 __Activities:__ I work in the architecture and development of a system for collecting, analyzing and storing user data (similar to Google Analytics), as well as APIs to record Landing Pages and Popups conversions, amongst other assets.
 As the team’s SRE, I directly support the construction of the infrastructure operation, monitoring and creation playbooks.
@@ -43,19 +43,13 @@ __Activities:__ I was in charge for implementing the DevOps culture, including m
 
 I've worked with: AngularJS, VueJS, NodeJS, C#, SQL Server, SSE (Server Side Events), Integrations, Spinnaker, Google Cloud, Sass, HTML5, Docker, Kubernetes, Continuous Integration, Continuos Development, TDD, Microservices.
 
-__Neoway Business Solutions - Analyst Developer (2015 - 2017)__
+__Neoway Business Solutions - Software Engineer (2015 - 2017)__
 
 __Activities:__ I was part of the Sales App development team, which is a application suite that aims to prospect, generate opportunities and sales. I had the opportunity to work with two products: Maps, an application based on GIS tecnologies; and Connector, responsible for integrating several popular CRMs in the market, including SalesForce and Microsoft Dynamics.
 
 I've worked with: AngularJS, NodeJS, Go, MongoDB, PostGIS, Geoserver, Azure, Google Maps, Leaflet, SSE (Server Side Events), Sass, HTML5, Docker, Kubernetes, Continuous Integration, Continuos Development, TDD, Microservices.
 
-__Blueticket - Analyst Developer 8 (2015)__
-
-__Activities:__ I was responsible for migrating legacy systems, developed in PHP for NodeJS and AngularJS, using microservices. I worked too with the new internal CRM, called BlueSuite. I fully integrated and developed BlueQueue, product designed to support heavy loads of requests, using few computational resources in the sale of major events via the internet. The results were expressive: BlueQueue reached ~ 10,000 req/s using a t2.micro machine.
-
-I've worked with: Architeture, Scrum, AngularJS, NodeJS, MongoDB, Redis, AWS, MySQL, Memcached, CSS3, HTML5, Jenkins, Continuous Integration, Continuos Development, TDD, Microservices.
-
-__Neemu - Developer 2 (2013 - 2015)__
+__Neemu - Software Engineer (2013 - 2015)__
 
 __Activities:__ At Neemu, company specialized in search and recommendation for e-commerce, I worked with Cockpit in a dashboard that brings all the analysis and performance with an excellent graphic experience. Next to the Cockpit was the SearchManager, used to add features to the search engine, such as prioritizing products in a search or blocking another in a recommendation.
 
@@ -92,7 +86,9 @@ I've worked with: PHP, Javascript, MySQL, CSS3, HTML5, Support.
 * FliSoL – Festival Latino Americano de Software Libre (Manaus – AM, 2008)
 
 ### Certifications, Qualifications and Languages
-* Implementing a Google DevOps Culture – Qwiklabs (2022) 
+* Advanced Architecting on AWS - AWS Training (2023)
+* Leadership and People Management - Udemy (2023) 
+* Developing a Google DevOps Culture – Qwiklabs (2022) 
 * Cloud with AWS, Filipe Felisbino – VOffice (Florianópolis - SC, 2016)
 * App Development with AngularJS, Rodrigo Branas – VOffice (Florianópolis - SC, 2015)
 * Testing RESTFul Services with Python, Charles Kilesse – Octobertest (Florianópolis - SC, 2015)
@@ -111,8 +107,7 @@ I've worked with: PHP, Javascript, MySQL, CSS3, HTML5, Support.
 * Human Relations, Qualynorte (Manaus - AM, 2007)
 
 ### Additional Informations
+* Speaker on TDC: "Developing a Event Oriented Architecture with Serverless Resources"
 * Speaker on 12º FloripaJS meetup: "Automating tasks with NPM scripts"
 * Expanded abstract published in ENCOSIS 2013: "QR Code - Systems and applicabilities in tourism points"
 * In Manaus, Co-founder of BitJungle Hacker Club (BitJungle HC)
-* Open-source enthusiast!
-* Availability to travel
